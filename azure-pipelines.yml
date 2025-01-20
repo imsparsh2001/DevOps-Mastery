@@ -10,9 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: cd Boardgame
-- script: ls -al
-
-- script: mvn -version
-  displayName: "Install Maven"
-
+- script: |
+    cd Boardgame
+    ls -al
+    mvn clean spring-boot:run
