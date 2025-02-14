@@ -1,0 +1,2 @@
+This is the file created using bash scripting and I have entered some text using bash only in it.
+This file is created at Fri Feb 14 11:49:11 IST 2025
