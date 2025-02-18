@@ -1,1 +1,0 @@
-This is the file created using bash scripting and i have enterd the some text using bash only init 
